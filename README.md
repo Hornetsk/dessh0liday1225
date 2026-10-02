@@ -21,7 +21,7 @@ Hobbies
 - Gaming
 
 Where I hang out
-- Pony Town = DR spot
+- Pony Town = DR spot / Docks
 
 Nationality
 - Hungarian ( CET ) 🇭🇺🇪🇺
