@@ -1,5 +1,7 @@
 <p align="center">
 	<img src="https://cdn.donmai.us/original/83/37/__hornet_and_cogfly_hollow_knight_and_1_more_drawn_by_dr_jei_pi__83375d4ae980515f67373cbbc166ca4d.jpg" alt="Profile art" width="220" />
+	<br />
+	<em>Art by : dr. jei pi</em>
 </p>
 
 <p align="center">
