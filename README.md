@@ -1,11 +1,3 @@
-<p align="center">
-	<img src="images/profile.png" alt="Profile image" width="220" />
-	<br />
-	<small>art by @MrRaccoonII</small>
-	<br />
-	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&label=Guitar%20Picks&color=009fe3&style=flat-square" alt="Guitar Picks" />
-</p>
-
 Hiya!
 
 My name is Michael (Mike for short).
