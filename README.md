@@ -69,3 +69,8 @@ Music
 Notes
 - My English breaks here and there, so please bear with me.
 - I can be random in conversations; don't be surprise if I go off-topic.
+
+<p align="center">
+	<br />
+	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&label=Guitar%20Picks&color=009fe3&style=flat-square" alt="Guitar Picks" />
+</p>
