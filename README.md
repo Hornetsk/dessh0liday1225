@@ -1,4 +1,8 @@
 <p align="center">
+	<img src="https://cdn.donmai.us/original/83/37/__hornet_and_cogfly_hollow_knight_and_1_more_drawn_by_dr_jei_pi__83375d4ae980515f67373cbbc166ca4d.jpg" alt="Profile art" width="220" />
+</p>
+
+<p align="center">
 	<br />
 	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&label=Guitar%20Picks&color=009fe3&style=flat-square" alt="Guitar Picks" />
 </p>
