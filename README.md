@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/profile.png" alt="Profile image" width="220" />
+	<img src="https://cdn.donmai.us/original/83/37/__hornet_and_cogfly_hollow_knight_and_1_more_drawn_by_dr_jei_pi__83375d4ae980515f67373bcbc166ca4d.jpg" alt="Profile image" width="220" />
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
